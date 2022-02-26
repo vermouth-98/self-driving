@@ -13,4 +13,4 @@ Sử dụng mô hình yolov5 với pretrained yolov5s.pt sử dụng tensorrt en
 # Tracking
 Sử dụng deepsort để tracking object kết hợp cùng yolov5
 
-Tất cả dữ liệu infer đều được sử dụng từ việc capture screen, sau đó chuyển vào các model để thực hiện infer
+Tất cả dữ liệu infer đều được lấy thông qua capture screen, sau đó chuyển vào các model để thực hiện infer

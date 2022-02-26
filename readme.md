@@ -12,3 +12,5 @@ Sử dụng mô hình sfsegment cho fps cao hơn khi sử dụng deeplab3plus ch
 Sử dụng mô hình yolov5 với pretrained yolov5s.pt sử dụng tensorrt engine yolov5s.engine để tăng tốc predict 
 # Tracking
 Sử dụng deepsort để tracking object kết hợp cùng yolov5
+
+Tất cả dữ liệu infer đều được sử dụng từ việc capture screen, sau đó chuyển vào các model để thực hiện infer
